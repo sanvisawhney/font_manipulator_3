@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 1px 1px 38px darkgray;
+}
+
+h3{
+    font-size: 35px;
+    font-style: bold;
+    color: white;
+    font-family: 'Oleo Script', cursive;
+    letter-spacing: 2px;
+}
+
+#note{
+    font-size: 18px;
+    color: black;
+}
+
+.copy_right_footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-family: 'Oleo Script', cursive;
+    font-size: 18px;
+    box-shadow: 1px 1px 38px black;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+canvas{
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+}
